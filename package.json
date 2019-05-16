@@ -1,0 +1,23 @@
+{
+  "name": "alerter",
+  "version": "1.0.0",
+  "description": "Alert MAchine",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Xsmael/alerter.git"
+  },
+  "author": "xsmael",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Xsmael/alerter/issues"
+  },
+  "homepage": "https://github.com/Xsmael/alerter#readme",
+  "dependencies": {
+    "emailjs": "^2.2.0",
+    "noogger": "^0.1.8"
+  }
+}

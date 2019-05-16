@@ -1,0 +1,42 @@
+
+alert : {
+    device:"",
+    queue_id:"",
+    time: "Timestamp",  // optional, defaults to current time the alert was received
+    message: "String", // alert message
+    labels: ["String"], // The labels will be added as tags to the alerts i.e  [IMPORTANT], [WARNING] or [NOTICE]  
+    priority: "Number",  // scale from 1 to 5 defaults to 5 (5 being the least level of priority)
+    channels: [
+        "sms" :{
+            destinators:["String"]
+        },
+        "email" :{
+            destinators:["String"]
+        },
+        "phonecall" :{
+            destinators:["String"]
+        },
+        "sip" :{
+            destinators:["String"]
+        },
+    ]
+
+}
+
+queue : {
+    id: "String",
+    channels: [
+        "sms" :{
+            destinators:["String"]
+        },
+        "email" :{
+            destinators:["String"]
+        },
+        "phonecall" :{
+            destinators:["String"]
+        },
+        "sip" :{
+            destinators:["String"]
+        },
+    ]
+}
