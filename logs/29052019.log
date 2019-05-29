@@ -1,0 +1,753 @@
+29-05-2019 20:18:55.5 [INFO] WS Server started on PORT: 3003
+29-05-2019 20:18:55.6 [INFO] Express Server started on PORT: 3001
+29-05-2019 20:35:42.2 [INFO] WS Server started on PORT: 3003
+29-05-2019 20:35:42.2 [INFO] Express Server started on PORT: 3002
+29-05-2019 20:38:36.6 [INFO] WS Server started on PORT: 3003
+29-05-2019 20:38:36.6 [INFO] Express Server started on PORT: 3001
+29-05-2019 20:38:51.1 [INFO] WS Server started on PORT: 3003
+29-05-2019 20:38:51.1 [INFO] Express Server started on PORT: 3051
+29-05-2019 20:39:18.8 [INFO] WS Server started on PORT: 3003
+29-05-2019 20:39:18.8 [INFO] Express Server started on PORT: 3051
+29-05-2019 20:39:30.6 [INFO] WS Server started on PORT: 3003
+29-05-2019 20:39:30.6 [INFO] Express Server started on PORT: 3005
+29-05-2019 20:44:34.8 [DEBUG] alert
+29-05-2019 20:45:22.8 [INFO] WS Server started on PORT: 3003
+29-05-2019 20:45:22.9 [INFO] Express Server started on PORT: 3005
+29-05-2019 20:45:38.5 [INFO] WS Server started on PORT: 3003
+29-05-2019 20:45:38.5 [INFO] Express Server started on PORT: 3005
+29-05-2019 20:45:38.9 [DEBUG] alert
+29-05-2019 20:45:58.3 [INFO] WS Server started on PORT: 3003
+29-05-2019 20:45:58.4 [INFO] Express Server started on PORT: 3005
+29-05-2019 20:45:58.7 [DEBUG] alert
+29-05-2019 20:46:01.0 [DEBUG] alert
+29-05-2019 20:46:11.9 [INFO] WS Server started on PORT: 3003
+29-05-2019 20:46:11.9 [INFO] Express Server started on PORT: 3005
+29-05-2019 20:46:15.7 [INFO] WS Server started on PORT: 3003
+29-05-2019 20:46:15.7 [INFO] Express Server started on PORT: 3005
+29-05-2019 20:46:16.1 [DEBUG] alert
+29-05-2019 20:46:24.9 [INFO] WS Server started on PORT: 3003
+29-05-2019 20:46:25.2 [INFO] Express Server started on PORT: 3005
+29-05-2019 20:46:26.3 [DEBUG] alert
+29-05-2019 20:46:28.0 [DEBUG] alert
+29-05-2019 20:46:38.2 [DEBUG] alert
+29-05-2019 20:46:49.9 [DEBUG] alert
+29-05-2019 20:46:54.4 [DEBUG] alert
+29-05-2019 20:47:47.6 [INFO] WS Server started on PORT: 3003
+29-05-2019 20:47:47.6 [INFO] Express Server started on PORT: 3005
+29-05-2019 20:47:51.3 [DEBUG] alert
+29-05-2019 20:48:16.3 [DEBUG] alert
+29-05-2019 20:48:29.8 [INFO] WS Server started on PORT: 3003
+29-05-2019 20:48:29.9 [INFO] Express Server started on PORT: 3005
+29-05-2019 20:48:44.8 [INFO] WS Server started on PORT: 3003
+29-05-2019 20:48:44.8 [INFO] Express Server started on PORT: 3005
+29-05-2019 20:48:44.9 [DEBUG] alert
+29-05-2019 20:50:55.3 [INFO] WS Server started on PORT: 3003
+29-05-2019 20:50:55.4 [INFO] Express Server started on PORT: 3005
+29-05-2019 20:51:03.4 [INFO] WS Server started on PORT: 3003
+29-05-2019 20:51:03.4 [INFO] Express Server started on PORT: 3005
+29-05-2019 20:51:33.6 [INFO] WS Server started on PORT: 3003
+29-05-2019 20:51:33.7 [INFO] Express Server started on PORT: 3005
+29-05-2019 20:51:45.6 [INFO] WS Server started on PORT: 3003
+29-05-2019 20:51:45.6 [INFO] Express Server started on PORT: 3005
+29-05-2019 20:51:52.0 [INFO] WS Server started on PORT: 3003
+29-05-2019 20:51:52.1 [INFO] Express Server started on PORT: 3005
+29-05-2019 20:51:56.9 [INFO] WS Server started on PORT: 3003
+29-05-2019 20:51:57.0 [INFO] Express Server started on PORT: 3005
+29-05-2019 20:52:01.1 [INFO] WS Server started on PORT: 3003
+29-05-2019 20:52:01.2 [INFO] Express Server started on PORT: 3005
+29-05-2019 20:52:12.9 [INFO] WS Server started on PORT: 3003
+29-05-2019 20:52:12.9 [INFO] Express Server started on PORT: 3005
+29-05-2019 20:52:55.0 [INFO] WS Server started on PORT: 3003
+29-05-2019 20:52:55.0 [INFO] Express Server started on PORT: 3005
+29-05-2019 20:53:22.8 [INFO] WS Server started on PORT: 3003
+29-05-2019 20:53:22.8 [INFO] Express Server started on PORT: 3005
+29-05-2019 20:54:08.8 [INFO] WS Server started on PORT: 3003
+29-05-2019 20:54:09.1 [INFO] Express Server started on PORT: 3005
+29-05-2019 20:54:15.7 [INFO] WS Server started on PORT: 3003
+29-05-2019 20:54:15.7 [INFO] Express Server started on PORT: 3005
+29-05-2019 20:54:26.4 [INFO] WS Server started on PORT: 3003
+29-05-2019 20:54:26.4 [INFO] Express Server started on PORT: 3005
+29-05-2019 20:54:40.4 [INFO] WS Server started on PORT: 3003
+29-05-2019 20:54:40.4 [INFO] Express Server started on PORT: 3005
+29-05-2019 20:55:05.5 [INFO] WS Server started on PORT: 3003
+29-05-2019 20:55:05.8 [INFO] Express Server started on PORT: 3005
+29-05-2019 20:55:27.2 [INFO] WS Server started on PORT: 3003
+29-05-2019 20:55:28.4 [INFO] Express Server started on PORT: 3005
+29-05-2019 20:55:51.7 [INFO] WS Server started on PORT: 3003
+29-05-2019 20:55:51.8 [INFO] Express Server started on PORT: 3005
+29-05-2019 20:55:56.8 [INFO] Express Server started on PORT: 3005
+29-05-2019 20:55:56.7 [INFO] WS Server started on PORT: 3003
+29-05-2019 20:56:00.4 [INFO] WS Server started on PORT: 3003
+29-05-2019 20:56:00.6 [INFO] Express Server started on PORT: 3005
+29-05-2019 20:56:06.9 [INFO] WS Server started on PORT: 3003
+29-05-2019 20:56:07.5 [INFO] Express Server started on PORT: 3005
+29-05-2019 20:57:08.3 [INFO] WS Server started on PORT: 3003
+29-05-2019 20:57:08.5 [INFO] Express Server started on PORT: 3005
+29-05-2019 20:57:19.6 [INFO] WS Server started on PORT: 3003
+29-05-2019 20:57:19.7 [INFO] Express Server started on PORT: 3005
+29-05-2019 20:57:36.0 [INFO] WS Server started on PORT: 3003
+29-05-2019 20:57:36.7 [INFO] Express Server started on PORT: 3005
+29-05-2019 20:57:45.5 [INFO] WS Server started on PORT: 3003
+29-05-2019 20:57:45.8 [INFO] Express Server started on PORT: 3005
+29-05-2019 20:58:06.0 [INFO] WS Server started on PORT: 3003
+29-05-2019 20:58:06.1 [INFO] Express Server started on PORT: 3005
+29-05-2019 20:58:37.2 [INFO] WS Server started on PORT: 3003
+29-05-2019 20:58:37.2 [INFO] Express Server started on PORT: 3005
+29-05-2019 21:02:59.1 [INFO] WS Server started on PORT: 3003
+29-05-2019 21:02:59.1 [INFO] Express Server started on PORT: 3005
+29-05-2019 21:03:49.8 [INFO] WS Server started on PORT: 3003
+29-05-2019 21:03:50.0 [INFO] Express Server started on PORT: 3005
+29-05-2019 21:20:28.1 [INFO] WS Server started on PORT: 3003
+29-05-2019 21:20:28.1 [INFO] Express Server started on PORT: 3005
+29-05-2019 21:20:45.6 [INFO] WS Server started on PORT: 3003
+29-05-2019 21:20:45.6 [INFO] Express Server started on PORT: 3005
+29-05-2019 21:22:45.4 [DEBUG] alert
+29-05-2019 21:22:45.5 [DEBUG] 
+{
+   "device": "web server2",
+   "queue_id": "q745212",
+   "time": "1559162492268",
+   "message": " Alert World",
+   "labels": "IMPORTANT,NOTICE ",
+   "priority": " 5"
+}
+29-05-2019 21:22:57.1 [INFO] WS Server started on PORT: 3003
+29-05-2019 21:22:57.2 [INFO] Express Server started on PORT: 3005
+29-05-2019 21:23:14.2 [DEBUG] alert
+29-05-2019 21:23:14.2 [DEBUG] 
+{
+   "device": "web server2",
+   "queue_id": "q745212",
+   "time": "1559162492268",
+   "message": " Alert World",
+   "labels": "IMPORTANT,NOTICE ",
+   "priority": " 5"
+}
+29-05-2019 21:23:39.5 [DEBUG] alert
+29-05-2019 21:23:39.5 [DEBUG] 
+{
+   "device": "web server2",
+   "queueId": "q745212",
+   "time": "1559162492268",
+   "message": " Alert World",
+   "labels": "IMPORTANT,NOTICE ",
+   "priority": " 5"
+}
+29-05-2019 21:25:20.7 [INFO] WS Server started on PORT: 3003
+29-05-2019 21:25:20.7 [INFO] Express Server started on PORT: 3005
+29-05-2019 21:25:38.2 [INFO] WS Server started on PORT: 3003
+29-05-2019 21:25:38.2 [INFO] Express Server started on PORT: 3005
+29-05-2019 21:26:02.9 [INFO] WS Server started on PORT: 3003
+29-05-2019 21:26:02.9 [INFO] Express Server started on PORT: 3005
+29-05-2019 21:26:30.7 [INFO] WS Server started on PORT: 3003
+29-05-2019 21:26:30.8 [INFO] Express Server started on PORT: 3005
+29-05-2019 21:26:45.6 [INFO] WS Server started on PORT: 3003
+29-05-2019 21:26:45.6 [INFO] Express Server started on PORT: 3005
+29-05-2019 21:28:46.8 [INFO] WS Server started on PORT: 3003
+29-05-2019 21:28:46.8 [INFO] Express Server started on PORT: 3005
+29-05-2019 21:29:02.1 [INFO] WS Server started on PORT: 3003
+29-05-2019 21:29:02.1 [INFO] Express Server started on PORT: 3005
+29-05-2019 21:29:08.1 [INFO] WS Server started on PORT: 3003
+29-05-2019 21:29:08.1 [INFO] Express Server started on PORT: 3005
+29-05-2019 21:29:51.8 [INFO] WS Server started on PORT: 3003
+29-05-2019 21:29:51.8 [INFO] Express Server started on PORT: 3005
+29-05-2019 21:30:15.1 [INFO] WS Server started on PORT: 3003
+29-05-2019 21:30:15.2 [INFO] Express Server started on PORT: 3005
+29-05-2019 21:32:32.1 [INFO] WS Server started on PORT: 3003
+29-05-2019 21:32:32.2 [INFO] Express Server started on PORT: 3005
+29-05-2019 21:32:37.4 [INFO] WS Server started on PORT: 3003
+29-05-2019 21:32:37.4 [INFO] Express Server started on PORT: 3005
+29-05-2019 21:32:59.2 [INFO] WS Server started on PORT: 3003
+29-05-2019 21:32:59.2 [INFO] Express Server started on PORT: 3005
+29-05-2019 21:33:24.8 [INFO] WS Server started on PORT: 3003
+29-05-2019 21:33:24.8 [INFO] Express Server started on PORT: 3005
+29-05-2019 21:33:45.0 [INFO] WS Server started on PORT: 3003
+29-05-2019 21:33:45.1 [INFO] Express Server started on PORT: 3005
+29-05-2019 21:36:22.5 [INFO] WS Server started on PORT: 3003
+29-05-2019 21:36:22.6 [INFO] Express Server started on PORT: 3005
+29-05-2019 21:36:33.4 [INFO] WS Server started on PORT: 3003
+29-05-2019 21:36:33.4 [INFO] Express Server started on PORT: 3005
+29-05-2019 21:36:44.5 [INFO] WS Server started on PORT: 3003
+29-05-2019 21:36:44.5 [INFO] Express Server started on PORT: 3005
+29-05-2019 21:37:08.4 [INFO] WS Server started on PORT: 3003
+29-05-2019 21:37:08.5 [INFO] Express Server started on PORT: 3005
+29-05-2019 21:37:21.0 [INFO] WS Server started on PORT: 3003
+29-05-2019 21:37:21.1 [INFO] Express Server started on PORT: 3005
+29-05-2019 21:37:49.0 [INFO] WS Server started on PORT: 3003
+29-05-2019 21:37:49.0 [INFO] Express Server started on PORT: 3005
+29-05-2019 21:37:59.5 [INFO] WS Server started on PORT: 3003
+29-05-2019 21:37:59.5 [INFO] Express Server started on PORT: 3005
+29-05-2019 21:38:09.7 [INFO] WS Server started on PORT: 3003
+29-05-2019 21:38:09.7 [INFO] Express Server started on PORT: 3005
+29-05-2019 21:38:32.7 [INFO] WS Server started on PORT: 3003
+29-05-2019 21:38:32.8 [INFO] Express Server started on PORT: 3005
+29-05-2019 21:38:40.0 [INFO] WS Server started on PORT: 3003
+29-05-2019 21:38:40.2 [INFO] Express Server started on PORT: 3005
+29-05-2019 21:57:45.8 [INFO] WS Server started on PORT: 3003
+29-05-2019 21:57:45.8 [INFO] Express Server started on PORT: 3005
+29-05-2019 21:57:50.7 [INFO] WS Server started on PORT: 3003
+29-05-2019 21:57:50.7 [INFO] Express Server started on PORT: 3005
+29-05-2019 21:57:55.7 [INFO] WS Server started on PORT: 3003
+29-05-2019 21:57:55.8 [INFO] Express Server started on PORT: 3005
+29-05-2019 21:59:21.2 [INFO] WS Server started on PORT: 3003
+29-05-2019 21:59:21.2 [INFO] Express Server started on PORT: 3005
+29-05-2019 21:59:51.6 [INFO] WS Server started on PORT: 3003
+29-05-2019 21:59:51.7 [INFO] Express Server started on PORT: 3005
+29-05-2019 22:00:01.5 [INFO] WS Server started on PORT: 3003
+29-05-2019 22:00:01.6 [INFO] Express Server started on PORT: 3005
+29-05-2019 22:01:00.0 [INFO] WS Server started on PORT: 3003
+29-05-2019 22:01:00.0 [INFO] Express Server started on PORT: 3005
+29-05-2019 22:01:55.1 [INFO] WS Server started on PORT: 3003
+29-05-2019 22:01:55.2 [INFO] Express Server started on PORT: 3005
+29-05-2019 22:02:22.1 [INFO] WS Server started on PORT: 3003
+29-05-2019 22:02:22.2 [INFO] Express Server started on PORT: 3005
+29-05-2019 22:02:26.6 [INFO] WS Server started on PORT: 3003
+29-05-2019 22:02:26.7 [INFO] Express Server started on PORT: 3005
+29-05-2019 22:02:43.9 [INFO] Express Server started on PORT: 3005
+29-05-2019 22:02:43.8 [INFO] WS Server started on PORT: 3003
+29-05-2019 22:03:05.1 [INFO] WS Server started on PORT: 3003
+29-05-2019 22:03:05.2 [INFO] Express Server started on PORT: 3005
+29-05-2019 22:04:03.4 [INFO] WS Server started on PORT: 3003
+29-05-2019 22:04:03.4 [INFO] Express Server started on PORT: 3005
+29-05-2019 22:04:13.8 [INFO] WS Server started on PORT: 3003
+29-05-2019 22:04:13.9 [INFO] Express Server started on PORT: 3005
+29-05-2019 22:04:28.6 [INFO] WS Server started on PORT: 3003
+29-05-2019 22:04:28.6 [INFO] Express Server started on PORT: 3005
+29-05-2019 22:05:08.4 [INFO] WS Server started on PORT: 3003
+29-05-2019 22:05:08.4 [INFO] Express Server started on PORT: 3005
+29-05-2019 22:05:24.2 [INFO] WS Server started on PORT: 3003
+29-05-2019 22:05:24.3 [INFO] Express Server started on PORT: 3005
+29-05-2019 22:05:31.5 [INFO] WS Server started on PORT: 3003
+29-05-2019 22:05:31.6 [INFO] Express Server started on PORT: 3005
+29-05-2019 22:05:40.8 [INFO] WS Server started on PORT: 3003
+29-05-2019 22:05:41.0 [INFO] Express Server started on PORT: 3005
+29-05-2019 22:05:57.4 [INFO] WS Server started on PORT: 3003
+29-05-2019 22:05:57.5 [INFO] Express Server started on PORT: 3005
+29-05-2019 22:06:11.1 [INFO] WS Server started on PORT: 3003
+29-05-2019 22:06:11.1 [INFO] Express Server started on PORT: 3005
+29-05-2019 22:07:24.2 [INFO] WS Server started on PORT: 3003
+29-05-2019 22:07:24.2 [INFO] Express Server started on PORT: 3005
+29-05-2019 22:07:56.2 [INFO] WS Server started on PORT: 3003
+29-05-2019 22:07:56.7 [INFO] Express Server started on PORT: 3005
+29-05-2019 22:08:11.9 [INFO] WS Server started on PORT: 3003
+29-05-2019 22:08:12.1 [INFO] Express Server started on PORT: 3005
+29-05-2019 22:08:39.9 [INFO] WS Server started on PORT: 3003
+29-05-2019 22:08:40.2 [INFO] Express Server started on PORT: 3005
+29-05-2019 22:08:57.7 [INFO] WS Server started on PORT: 3003
+29-05-2019 22:08:58.0 [INFO] Express Server started on PORT: 3005
+29-05-2019 22:09:00.6 [INFO] WS Server started on PORT: 3003
+29-05-2019 22:09:00.7 [INFO] Express Server started on PORT: 3005
+29-05-2019 22:09:56.7 [INFO] WS Server started on PORT: 3003
+29-05-2019 22:09:56.7 [INFO] Express Server started on PORT: 3005
+29-05-2019 22:10:05.8 [DEBUG] alert
+29-05-2019 22:10:05.8 [DEBUG] 
+{
+   "device": "web server2",
+   "queueId": "q745212",
+   "time": "1559162492268",
+   "message": " Alert World",
+   "labels": "IMPORTANT,NOTICE ",
+   "priority": " 5"
+}
+29-05-2019 22:11:06.0 [INFO] WS Server started on PORT: 3003
+29-05-2019 22:11:06.0 [INFO] Express Server started on PORT: 3005
+29-05-2019 22:11:08.5 [DEBUG] alert
+29-05-2019 22:11:08.6 [DEBUG] 
+{
+   "device": "web server2",
+   "queueId": "q745212",
+   "time": "1559162492268",
+   "message": " Alert World",
+   "labels": "IMPORTANT,NOTICE ",
+   "priority": " 5"
+}
+29-05-2019 22:14:15.8 [INFO] WS Server started on PORT: 3003
+29-05-2019 22:14:15.9 [INFO] Express Server started on PORT: 3005
+29-05-2019 22:14:17.2 [DEBUG] alert
+29-05-2019 22:14:17.3 [DEBUG] 
+{
+   "device": "web server2",
+   "queueId": "q745212",
+   "time": "1559162492268",
+   "message": " Alert World",
+   "labels": "IMPORTANT,NOTICE ",
+   "priority": " 5"
+}
+29-05-2019 22:14:40.6 [INFO] WS Server started on PORT: 3003
+29-05-2019 22:14:40.8 [INFO] Express Server started on PORT: 3005
+29-05-2019 22:14:54.4 [INFO] WS Server started on PORT: 3003
+29-05-2019 22:14:54.8 [INFO] Express Server started on PORT: 3005
+29-05-2019 22:15:10.7 [INFO] Express Server started on PORT: 3005
+29-05-2019 22:15:10.7 [INFO] WS Server started on PORT: 3003
+29-05-2019 22:15:12.0 [DEBUG] alert
+29-05-2019 22:15:12.0 [DEBUG] 
+{
+   "device": "web server2",
+   "queueId": "q745212",
+   "time": "1559162492268",
+   "message": " Alert World",
+   "labels": "IMPORTANT,NOTICE ",
+   "priority": " 5"
+}
+29-05-2019 22:15:33.7 [INFO] WS Server started on PORT: 3003
+29-05-2019 22:15:33.7 [INFO] Express Server started on PORT: 3005
+29-05-2019 22:15:36.3 [DEBUG] alert
+29-05-2019 22:15:36.3 [DEBUG] 
+{
+   "device": "web server2",
+   "queueId": "q745212",
+   "time": "1559162492268",
+   "message": " Alert World",
+   "labels": "IMPORTANT,NOTICE ",
+   "priority": " 5"
+}
+29-05-2019 22:16:23.9 [INFO] WS Server started on PORT: 3003
+29-05-2019 22:16:23.9 [INFO] Express Server started on PORT: 3005
+29-05-2019 22:16:33.5 [INFO] WS Server started on PORT: 3003
+29-05-2019 22:16:33.5 [INFO] Express Server started on PORT: 3005
+29-05-2019 22:16:35.7 [DEBUG] alert
+29-05-2019 22:16:35.7 [DEBUG] 
+{
+   "device": "web server2",
+   "queueId": "q745212",
+   "time": "1559162492268",
+   "message": " Alert World",
+   "labels": "IMPORTANT,NOTICE ",
+   "priority": " 5"
+}
+29-05-2019 22:16:59.5 [INFO] WS Server started on PORT: 3003
+29-05-2019 22:16:59.5 [INFO] Express Server started on PORT: 3005
+29-05-2019 22:17:00.7 [DEBUG] alert
+29-05-2019 22:17:00.7 [DEBUG] 
+{
+   "device": "web server2",
+   "queueId": "q745212",
+   "time": "1559162492268",
+   "message": " Alert World",
+   "labels": "IMPORTANT,NOTICE ",
+   "priority": " 5"
+}
+29-05-2019 22:17:00.8 [ERROR] 
+{
+   "errno": -4058,
+   "code": "ENOENT",
+   "syscall": "open",
+   "path": "C:\\node\\alerter\\queues\\q745212.q"
+}
+29-05-2019 22:17:00.8 [WARNING] ENOENT queues\q745212.q
+29-05-2019 22:17:00.8 [NOTICE] false initialising queues\q745212.q
+29-05-2019 22:17:22.1 [INFO] WS Server started on PORT: 3003
+29-05-2019 22:17:22.2 [INFO] Express Server started on PORT: 3005
+29-05-2019 22:17:31.3 [INFO] WS Server started on PORT: 3003
+29-05-2019 22:17:31.3 [INFO] Express Server started on PORT: 3005
+29-05-2019 22:18:25.2 [INFO] WS Server started on PORT: 3003
+29-05-2019 22:18:26.0 [INFO] Express Server started on PORT: 3005
+29-05-2019 22:18:29.1 [INFO] WS Server started on PORT: 3003
+29-05-2019 22:18:29.1 [INFO] Express Server started on PORT: 3005
+29-05-2019 22:18:34.9 [INFO] WS Server started on PORT: 3003
+29-05-2019 22:18:34.9 [INFO] Express Server started on PORT: 3005
+29-05-2019 22:19:37.3 [INFO] WS Server started on PORT: 3003
+29-05-2019 22:19:37.3 [INFO] Express Server started on PORT: 3005
+29-05-2019 22:19:41.6 [INFO] WS Server started on PORT: 3003
+29-05-2019 22:19:41.6 [INFO] Express Server started on PORT: 3005
+29-05-2019 22:19:49.8 [INFO] WS Server started on PORT: 3003
+29-05-2019 22:19:49.8 [INFO] Express Server started on PORT: 3005
+29-05-2019 22:19:57.4 [DEBUG] alert
+29-05-2019 22:19:57.5 [DEBUG] 
+{
+   "device": "web server2",
+   "queueId": "q745212",
+   "time": "1559162492268",
+   "message": " Alert World",
+   "labels": "IMPORTANT,NOTICE ",
+   "priority": " 5"
+}
+29-05-2019 22:20:18.7 [DEBUG] alert
+29-05-2019 22:20:18.7 [DEBUG] 
+{
+   "device": "web server2",
+   "queueId": "q745212",
+   "time": "1559162492268",
+   "message": " Alert World",
+   "labels": "IMPORTANT,NOTICE ",
+   "priority": " 5"
+}
+29-05-2019 22:20:35.1 [INFO] WS Server started on PORT: 3003
+29-05-2019 22:20:35.1 [INFO] Express Server started on PORT: 3005
+29-05-2019 22:21:07.5 [INFO] WS Server started on PORT: 3003
+29-05-2019 22:21:07.6 [INFO] Express Server started on PORT: 3005
+29-05-2019 22:21:30.5 [INFO] WS Server started on PORT: 3003
+29-05-2019 22:21:30.5 [INFO] Express Server started on PORT: 3005
+29-05-2019 22:21:30.8 [DEBUG] alert
+29-05-2019 22:21:30.8 [DEBUG] 
+{
+   "device": "web server2",
+   "queueId": "q745212",
+   "time": "1559162492268",
+   "message": " Alert World",
+   "labels": "IMPORTANT,NOTICE ",
+   "priority": " 5"
+}
+29-05-2019 22:21:30.8 [ERROR] 
+{
+   "errno": -4058,
+   "code": "ENOENT",
+   "syscall": "open",
+   "path": "C:\\node\\alerter\\queues\\q745212.q"
+}
+29-05-2019 22:21:30.9 [NOTICE]  initialising queues\q745212.q
+29-05-2019 22:21:56.7 [DEBUG] alert
+29-05-2019 22:21:56.7 [DEBUG] 
+{
+   "device": "web server2",
+   "queueId": "q745vg212",
+   "time": "1559162492268",
+   "message": " Alert World",
+   "labels": "IMPORTANT,NOTICE ",
+   "priority": " 5"
+}
+29-05-2019 22:21:56.7 [ERROR] 
+{
+   "errno": -4058,
+   "code": "ENOENT",
+   "syscall": "open",
+   "path": "C:\\node\\alerter\\queues\\q745vg212.q"
+}
+29-05-2019 22:21:56.7 [NOTICE]  initialising queues\q745vg212.q
+29-05-2019 22:21:59.5 [DEBUG] alert
+29-05-2019 22:21:59.6 [DEBUG] 
+{
+   "device": "web server2",
+   "queueId": "q745vg212",
+   "time": "1559162492268",
+   "message": " Alert World",
+   "labels": "IMPORTANT,NOTICE ",
+   "priority": " 5"
+}
+29-05-2019 22:22:01.0 [DEBUG] alert
+29-05-2019 22:22:01.0 [DEBUG] 
+{
+   "device": "web server2",
+   "queueId": "q745vg212",
+   "time": "1559162492268",
+   "message": " Alert World",
+   "labels": "IMPORTANT,NOTICE ",
+   "priority": " 5"
+}
+29-05-2019 22:22:01.9 [DEBUG] alert
+29-05-2019 22:22:02.0 [DEBUG] 
+{
+   "device": "web server2",
+   "queueId": "q745vg212",
+   "time": "1559162492268",
+   "message": " Alert World",
+   "labels": "IMPORTANT,NOTICE ",
+   "priority": " 5"
+}
+29-05-2019 22:34:58.8 [INFO] AK SERVER v1.2.1  Starting up Sequence...
+29-05-2019 22:34:58.8 [INFO] WS Server started on PORT: 3003
+29-05-2019 22:34:58.8 [INFO] Express Server started on PORT: 3005
+29-05-2019 22:36:07.4 [INFO] AK SERVER v1.2.1  Starting up Sequence...
+29-05-2019 22:36:07.4 [INFO] WS Server started on PORT: 3003
+29-05-2019 22:36:07.4 [INFO] Express Server started on PORT: 3005
+29-05-2019 22:36:33.3 [INFO] AK SERVER v1.2.1  Starting up Sequence...
+29-05-2019 22:36:33.3 [INFO] WS Server started on PORT: 3003
+29-05-2019 22:36:33.3 [INFO] Express Server started on PORT: 3005
+29-05-2019 22:37:24.8 [INFO] AK SERVER v1.2.1  Starting up Sequence...
+29-05-2019 22:37:24.8 [INFO] WS Server started on PORT: 3003
+29-05-2019 22:37:24.8 [INFO] Express Server started on PORT: 3005
+29-05-2019 22:38:03.3 [INFO] AK SERVER v1.2.1  Starting up Sequence...
+29-05-2019 22:38:03.3 [INFO] WS Server started on PORT: 3003
+29-05-2019 22:38:03.3 [INFO] Express Server started on PORT: 3005
+29-05-2019 22:38:15.7 [INFO] AK SERVER v1.2.1  Starting up Sequence...
+29-05-2019 22:38:15.7 [INFO] WS Server started on PORT: 3003
+29-05-2019 22:38:15.7 [INFO] Express Server started on PORT: 3005
+29-05-2019 22:38:32.2 [INFO] AK SERVER v1.2.1  Starting up Sequence...
+29-05-2019 22:38:32.2 [INFO] WS Server started on PORT: 3003
+29-05-2019 22:38:32.3 [INFO] Express Server started on PORT: 3005
+29-05-2019 22:39:02.1 [INFO] AK SERVER v1.2.1  Starting up Sequence...
+29-05-2019 22:39:02.1 [INFO] WS Server started on PORT: 3003
+29-05-2019 22:39:02.1 [INFO] Express Server started on PORT: 3005
+29-05-2019 22:39:17.7 [INFO] AK SERVER v1.2.1  Starting up Sequence...
+29-05-2019 22:39:17.7 [INFO] WS Server started on PORT: 3003
+29-05-2019 22:39:17.7 [INFO] Express Server started on PORT: 3005
+29-05-2019 22:40:23.8 [INFO] AK SERVER v1.2.1  Starting up Sequence...
+29-05-2019 22:40:23.8 [INFO] WS Server started on PORT: 3003
+29-05-2019 22:40:23.8 [INFO] Express Server started on PORT: 3005
+29-05-2019 22:40:35.3 [INFO] AK SERVER v1.2.1  Starting up Sequence...
+29-05-2019 22:40:35.4 [INFO] WS Server started on PORT: 3003
+29-05-2019 22:40:35.4 [INFO] Express Server started on PORT: 3005
+29-05-2019 22:40:44.2 [INFO] AK SERVER v1.2.1  Starting up Sequence...
+29-05-2019 22:40:44.2 [INFO] WS Server started on PORT: 3003
+29-05-2019 22:40:44.2 [INFO] Express Server started on PORT: 3005
+29-05-2019 22:40:54.1 [INFO] AK SERVER v1.2.1  Starting up Sequence...
+29-05-2019 22:40:54.1 [INFO] WS Server started on PORT: 3003
+29-05-2019 22:40:54.1 [INFO] Express Server started on PORT: 3005
+29-05-2019 22:41:15.3 [INFO] AK SERVER v1.2.1  Starting up Sequence...
+29-05-2019 22:41:15.4 [INFO] WS Server started on PORT: 3003
+29-05-2019 22:41:15.4 [INFO] Express Server started on PORT: 3005
+29-05-2019 22:41:27.7 [INFO] AK SERVER v1.2.1  Starting up Sequence...
+29-05-2019 22:41:27.7 [INFO] WS Server started on PORT: 3003
+29-05-2019 22:41:27.7 [INFO] Express Server started on PORT: 3005
+29-05-2019 22:41:54.0 [INFO] AK SERVER v1.2.1  Starting up Sequence...
+29-05-2019 22:41:54.0 [INFO] WS Server started on PORT: 3003
+29-05-2019 22:41:54.0 [INFO] Express Server started on PORT: 3005
+29-05-2019 22:42:14.8 [INFO] AK SERVER v1.2.1  Starting up Sequence...
+29-05-2019 22:42:14.8 [INFO] WS Server started on PORT: 3003
+29-05-2019 22:42:14.8 [INFO] Express Server started on PORT: 3005
+29-05-2019 22:42:31.9 [INFO] AK SERVER v1.2.1  Starting up Sequence...
+29-05-2019 22:42:32.0 [INFO] WS Server started on PORT: 3003
+29-05-2019 22:42:32.0 [INFO] Express Server started on PORT: 3005
+29-05-2019 22:42:45.3 [INFO] AK SERVER v1.2.1  Starting up Sequence...
+29-05-2019 22:42:45.3 [INFO] WS Server started on PORT: 3003
+29-05-2019 22:42:45.3 [INFO] Express Server started on PORT: 3005
+29-05-2019 22:43:00.2 [INFO] AK SERVER v1.2.1  Starting up Sequence...
+29-05-2019 22:43:00.3 [INFO] WS Server started on PORT: 3003
+29-05-2019 22:43:00.3 [INFO] Express Server started on PORT: 3005
+29-05-2019 22:43:22.9 [INFO] Starting up Sequence...
+29-05-2019 22:43:22.9 [INFO] WS Server started on PORT: 3003
+29-05-2019 22:43:22.9 [INFO] Express Server started on PORT: 3005
+29-05-2019 22:43:36.3 [INFO] Starting up Sequence...
+29-05-2019 22:43:36.3 [INFO] WS Server started on PORT: 3003
+29-05-2019 22:43:36.3 [INFO] Express Server started on PORT: 3005
+29-05-2019 22:43:55.2 [INFO] Starting up Sequence...
+29-05-2019 22:43:55.2 [INFO] WS Server started on PORT: 3003
+29-05-2019 22:43:55.2 [INFO] Express Server started on PORT: 3005
+29-05-2019 22:44:20.8 [INFO] Starting up Sequence...
+29-05-2019 22:44:20.8 [INFO] WS Server started on PORT: 3003
+29-05-2019 22:44:20.8 [INFO] Express Server started on PORT: 3005
+29-05-2019 22:45:36.3 [INFO] Starting up Sequence...
+29-05-2019 22:45:36.3 [INFO] WS Server started on PORT: 3003
+29-05-2019 22:45:36.3 [INFO] Express Server started on PORT: 3005
+29-05-2019 22:45:40.4 [INFO] Starting up Sequence...
+29-05-2019 22:45:40.4 [INFO] WS Server started on PORT: 3003
+29-05-2019 22:45:40.5 [INFO] Express Server started on PORT: 3005
+29-05-2019 22:46:54.7 [INFO] Starting up Sequence...
+29-05-2019 22:46:54.7 [INFO] WS Server started on PORT: 3003
+29-05-2019 22:46:54.7 [INFO] Express Server started on PORT: 3005
+29-05-2019 22:47:04.2 [INFO] Starting up Sequence...
+29-05-2019 22:47:04.2 [INFO] WS Server started on PORT: 3003
+29-05-2019 22:47:04.2 [INFO] Express Server started on PORT: 3005
+29-05-2019 22:47:08.5 [INFO] Starting up Sequence...
+29-05-2019 22:47:08.5 [INFO] WS Server started on PORT: 3003
+29-05-2019 22:47:08.6 [INFO] Express Server started on PORT: 3005
+29-05-2019 22:47:12.1 [INFO] Starting up Sequence...
+29-05-2019 22:47:12.1 [INFO] WS Server started on PORT: 3003
+29-05-2019 22:47:12.1 [INFO] Express Server started on PORT: 3005
+29-05-2019 22:47:15.2 [INFO] Starting up Sequence...
+29-05-2019 22:47:15.3 [INFO] WS Server started on PORT: 3003
+29-05-2019 22:47:15.3 [INFO] Express Server started on PORT: 3005
+29-05-2019 22:47:24.4 [INFO] Starting up Sequence...
+29-05-2019 22:47:24.4 [INFO] WS Server started on PORT: 3003
+29-05-2019 22:47:24.4 [INFO] Express Server started on PORT: 3005
+29-05-2019 22:47:28.2 [INFO] Starting up Sequence...
+29-05-2019 22:47:28.4 [INFO] WS Server started on PORT: 3003
+29-05-2019 22:47:28.4 [INFO] Express Server started on PORT: 3005
+29-05-2019 22:47:52.9 [INFO] Starting up Sequence...
+29-05-2019 22:47:53.2 [INFO] WS Server started on PORT: 3003
+29-05-2019 22:47:53.2 [INFO] Express Server started on PORT: 3005
+29-05-2019 22:48:14.3 [INFO] Starting up Sequence...
+29-05-2019 22:48:15.5 [INFO] WS Server started on PORT: 3003
+29-05-2019 22:48:15.6 [INFO] Express Server started on PORT: 3005
+29-05-2019 22:48:23.6 [INFO] Starting up Sequence...
+29-05-2019 22:48:23.6 [INFO] WS Server started on PORT: 3003
+29-05-2019 22:48:23.6 [INFO] Express Server started on PORT: 3005
+29-05-2019 22:48:56.4 [INFO] Starting up Sequence...
+29-05-2019 22:48:56.5 [INFO] WS Server started on PORT: 3003
+29-05-2019 22:48:56.5 [INFO] Express Server started on PORT: 3005
+29-05-2019 22:49:25.0 [INFO] Starting up Sequence...
+29-05-2019 22:49:25.0 [INFO] WS Server started on PORT: 3003
+29-05-2019 22:49:25.0 [INFO] Express Server started on PORT: 3005
+29-05-2019 22:49:35.9 [INFO] Starting up Sequence...
+29-05-2019 22:49:36.0 [INFO] WS Server started on PORT: 3003
+29-05-2019 22:49:36.0 [INFO] Express Server started on PORT: 3005
+29-05-2019 22:49:51.0 [INFO] Starting up Sequence...
+29-05-2019 22:49:51.1 [INFO] WS Server started on PORT: 3003
+29-05-2019 22:49:51.1 [INFO] Express Server started on PORT: 3005
+29-05-2019 22:49:56.6 [INFO] Starting up Sequence...
+29-05-2019 22:49:56.6 [INFO] WS Server started on PORT: 3003
+29-05-2019 22:49:56.6 [INFO] Express Server started on PORT: 3005
+29-05-2019 22:50:20.8 [INFO] Starting up Sequence...
+29-05-2019 22:50:20.8 [INFO] WS Server started on PORT: 3003
+29-05-2019 22:50:20.8 [INFO] Express Server started on PORT: 3005
+29-05-2019 22:50:35.3 [INFO] Starting up Sequence...
+29-05-2019 22:50:35.4 [INFO] WS Server started on PORT: 3003
+29-05-2019 22:50:35.4 [INFO] Express Server started on PORT: 3005
+29-05-2019 22:52:06.2 [INFO] Starting up Sequence...
+29-05-2019 22:52:06.3 [INFO] WS Server started on PORT: 3003
+29-05-2019 22:52:06.3 [INFO] Express Server started on PORT: 3005
+29-05-2019 22:52:09.9 [INFO] Starting up Sequence...
+29-05-2019 22:52:10.0 [INFO] WS Server started on PORT: 3003
+29-05-2019 22:52:10.3 [INFO] Express Server started on PORT: 3005
+29-05-2019 22:52:14.5 [INFO] Starting up Sequence...
+29-05-2019 22:52:15.4 [INFO] WS Server started on PORT: 3003
+29-05-2019 22:52:15.4 [INFO] Express Server started on PORT: 3005
+29-05-2019 22:52:19.5 [INFO] WS Server started on PORT: 3003
+29-05-2019 22:52:19.5 [INFO] Express Server started on PORT: 3005
+29-05-2019 22:52:19.5 [INFO] Starting up Sequence...
+29-05-2019 22:52:27.3 [INFO] Starting up Sequence...
+29-05-2019 22:52:27.3 [INFO] WS Server started on PORT: 3003
+29-05-2019 22:52:27.3 [INFO] Express Server started on PORT: 3005
+29-05-2019 22:52:49.7 [INFO] Starting up Sequence...
+29-05-2019 22:52:49.7 [INFO] WS Server started on PORT: 3003
+29-05-2019 22:52:49.7 [INFO] Express Server started on PORT: 3005
+29-05-2019 22:53:04.0 [INFO] Starting up Sequence...
+29-05-2019 22:53:04.0 [INFO] WS Server started on PORT: 3003
+29-05-2019 22:53:04.0 [INFO] Express Server started on PORT: 3005
+29-05-2019 22:54:01.1 [INFO] Starting up Sequence...
+29-05-2019 22:54:01.2 [INFO] WS Server started on PORT: 3003
+29-05-2019 22:54:01.2 [INFO] Express Server started on PORT: 3005
+29-05-2019 22:54:41.5 [INFO] Starting up Sequence...
+29-05-2019 22:54:41.5 [INFO] WS Server started on PORT: 3003
+29-05-2019 22:54:41.6 [INFO] Express Server started on PORT: 3005
+29-05-2019 22:54:56.2 [INFO] Starting up Sequence...
+29-05-2019 22:54:56.4 [INFO] WS Server started on PORT: 3003
+29-05-2019 22:54:56.4 [INFO] Express Server started on PORT: 3005
+29-05-2019 22:55:12.1 [INFO] Starting up Sequence...
+29-05-2019 22:55:12.5 [INFO] WS Server started on PORT: 3003
+29-05-2019 22:55:12.5 [INFO] Express Server started on PORT: 3005
+29-05-2019 22:55:16.1 [INFO] Starting up Sequence...
+29-05-2019 22:55:16.1 [INFO] WS Server started on PORT: 3003
+29-05-2019 22:55:16.1 [INFO] Express Server started on PORT: 3005
+29-05-2019 22:55:20.6 [DEBUG] alert
+29-05-2019 22:55:20.6 [DEBUG] 
+{
+   "device": "web server2",
+   "queueId": "q745vg212",
+   "time": "1559162492268",
+   "message": " Alert World",
+   "labels": "IMPORTANT,NOTICE ",
+   "priority": " 5"
+}
+29-05-2019 22:55:27.3 [DEBUG] alert
+29-05-2019 22:55:27.5 [DEBUG] 
+{
+   "device": "web server2",
+   "time": "1559162492268",
+   "message": " Alert World",
+   "labels": "IMPORTANT,NOTICE ",
+   "priority": " 5"
+}
+29-05-2019 22:56:02.3 [INFO] Starting up Sequence...
+29-05-2019 22:56:02.4 [INFO] WS Server started on PORT: 3003
+29-05-2019 22:56:02.4 [INFO] Express Server started on PORT: 3005
+29-05-2019 22:56:12.5 [DEBUG] alert
+29-05-2019 22:56:12.6 [DEBUG] 
+{
+   "device": "web server2",
+   "queueId": "",
+   "time": "1559162492268",
+   "message": " Alert World",
+   "labels": "IMPORTANT,NOTICE ",
+   "priority": " 5"
+}
+29-05-2019 22:56:44.2 [DEBUG] alert
+29-05-2019 22:56:44.3 [DEBUG] 
+{
+   "device": "web server2",
+   "queueId": "",
+   "time": "1559162492268",
+   "message": " Alert World",
+   "labels": "IMPORTANT,NOTICE ",
+   "priority": " 5"
+}
+29-05-2019 22:56:45.4 [DEBUG] alert
+29-05-2019 22:56:45.5 [DEBUG] 
+{
+   "device": "web server2",
+   "queueId": "",
+   "time": "1559162492268",
+   "message": " Alert World",
+   "labels": "IMPORTANT,NOTICE ",
+   "priority": " 5"
+}
+29-05-2019 22:56:46.1 [DEBUG] alert
+29-05-2019 22:56:46.1 [DEBUG] 
+{
+   "device": "web server2",
+   "queueId": "",
+   "time": "1559162492268",
+   "message": " Alert World",
+   "labels": "IMPORTANT,NOTICE ",
+   "priority": " 5"
+}
+29-05-2019 22:56:46.7 [DEBUG] alert
+29-05-2019 22:56:46.8 [DEBUG] 
+{
+   "device": "web server2",
+   "queueId": "",
+   "time": "1559162492268",
+   "message": " Alert World",
+   "labels": "IMPORTANT,NOTICE ",
+   "priority": " 5"
+}
+29-05-2019 22:57:15.6 [INFO] Starting up Sequence...
+29-05-2019 22:57:15.6 [INFO] WS Server started on PORT: 3003
+29-05-2019 22:57:15.6 [INFO] Express Server started on PORT: 3005
+29-05-2019 22:57:19.2 [DEBUG] alert
+29-05-2019 22:57:19.4 [DEBUG] 
+{
+   "device": "web server2",
+   "queueId": "",
+   "time": "1559162492268",
+   "message": " Alert World",
+   "labels": "IMPORTANT,NOTICE ",
+   "priority": " 5"
+}
+29-05-2019 22:57:24.5 [DEBUG] alert
+29-05-2019 22:57:24.5 [DEBUG] 
+{
+   "device": "web server2",
+   "time": "1559162492268",
+   "message": " Alert World",
+   "labels": "IMPORTANT,NOTICE ",
+   "priority": " 5"
+}
+29-05-2019 22:57:29.0 [DEBUG] alert
+29-05-2019 22:57:29.0 [DEBUG] 
+{
+   "device": "web server2",
+   "queueId": "",
+   "time": "1559162492268",
+   "message": " Alert World",
+   "labels": "IMPORTANT,NOTICE ",
+   "priority": " 5"
+}
+29-05-2019 22:57:37.7 [INFO] Starting up Sequence...
+29-05-2019 22:57:37.7 [INFO] WS Server started on PORT: 3003
+29-05-2019 22:57:37.7 [INFO] Express Server started on PORT: 3005
+29-05-2019 22:57:46.1 [INFO] Starting up Sequence...
+29-05-2019 22:57:46.2 [INFO] WS Server started on PORT: 3003
+29-05-2019 22:57:46.2 [INFO] Express Server started on PORT: 3005
+29-05-2019 22:57:59.4 [INFO] Starting up Sequence...
+29-05-2019 22:57:59.7 [INFO] WS Server started on PORT: 3003
+29-05-2019 22:58:00.2 [INFO] Express Server started on PORT: 3005
+29-05-2019 22:58:11.3 [INFO] Starting up Sequence...
+29-05-2019 22:58:11.3 [INFO] WS Server started on PORT: 3003
+29-05-2019 22:58:11.4 [INFO] Express Server started on PORT: 3005
+29-05-2019 22:58:19.1 [INFO] Starting up Sequence...
+29-05-2019 22:58:19.3 [INFO] WS Server started on PORT: 3003
+29-05-2019 22:58:19.3 [INFO] Express Server started on PORT: 3005
+29-05-2019 22:58:28.2 [INFO] Starting up Sequence...
+29-05-2019 22:58:28.2 [INFO] WS Server started on PORT: 3003
+29-05-2019 22:58:28.2 [INFO] Express Server started on PORT: 3005
+29-05-2019 22:58:29.7 [DEBUG] alert
+29-05-2019 22:58:29.7 [DEBUG] 
+{
+   "device": "web server2",
+   "queueId": "",
+   "time": "1559162492268",
+   "message": " Alert World",
+   "labels": "IMPORTANT,NOTICE ",
+   "priority": " 5"
+}
+29-05-2019 22:58:29.7 [WARNING] No queue id or channel is defined, ignored
+29-05-2019 22:58:43.5 [INFO] Starting up Sequence...
+29-05-2019 22:58:43.6 [INFO] WS Server started on PORT: 3003
+29-05-2019 22:58:43.6 [INFO] Express Server started on PORT: 3005
+29-05-2019 22:58:46.2 [INFO] Starting up Sequence...
+29-05-2019 22:58:46.2 [INFO] WS Server started on PORT: 3003
+29-05-2019 22:58:46.2 [INFO] Express Server started on PORT: 3005
+29-05-2019 22:59:03.7 [INFO] Starting up Sequence...
+29-05-2019 22:59:03.7 [INFO] WS Server started on PORT: 3003
+29-05-2019 22:59:03.7 [INFO] Express Server started on PORT: 3005
