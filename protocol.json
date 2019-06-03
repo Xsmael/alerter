@@ -42,4 +42,26 @@ queue : {
     ]
 }
 
+/** EXAMPLES */
+{
+    id: "EPC-GRAVE",
+    channels: [
+        "sms" :{
+            destinators:["+226784512","70119054"]
+        },
+        "email" :{
+            destinators:["String"]
+        }
+    ]
+}
+
+{
+    id: "EPC-pas-tres-grave",
+    channels: [
+     
+        "email" :{
+            destinators:["edmon.nikiema@unicom-sa.com"]
+        }
+    ]
+}
 

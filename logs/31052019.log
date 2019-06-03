@@ -1,0 +1,103 @@
+31-05-2019 07:18:24.3 [INFO] Starting up Sequence...
+31-05-2019 07:18:24.3 [INFO] WS Server started on PORT: 3003
+31-05-2019 07:18:24.3 [INFO] Express Server started on PORT: 3005
+31-05-2019 07:19:13.1 [DEBUG] alert
+31-05-2019 07:19:13.1 [DEBUG] 
+{
+   "device": "web server2",
+   "queueId": "",
+   "time": "1559162492268",
+   "message": " Alert World",
+   "labels": "IMPORTANT,NOTICE ",
+   "priority": " 5"
+}
+31-05-2019 07:19:13.1 [WARNING] No queue id or channel is defined, ignored
+31-05-2019 07:19:22.8 [DEBUG] alert
+31-05-2019 07:19:22.8 [DEBUG] 
+{
+   "device": "web server2",
+   "queueId": "",
+   "time": "1559162492268",
+   "message": " Alert World",
+   "labels": "IMPORTANT,NOTICE ",
+   "priority": " 5"
+}
+31-05-2019 07:19:22.8 [WARNING] No queue id or channel is defined, ignored
+31-05-2019 07:19:50.9 [DEBUG] alert
+31-05-2019 07:19:50.9 [DEBUG] 
+{
+   "device": "web server2",
+   "queueId": "q745vg212",
+   "time": "1559162492268",
+   "message": " Alert World",
+   "labels": "IMPORTANT,NOTICE ",
+   "priority": " 5"
+}
+31-05-2019 07:20:03.8 [DEBUG] alert
+31-05-2019 07:20:03.8 [DEBUG] 
+{
+   "device": "web server2",
+   "queueId": "q745vg212",
+   "time": "1559162492268",
+   "message": " Alert World",
+   "labels": "IMPORTANT,NOTICE ",
+   "priority": " 5"
+}
+31-05-2019 07:20:29.3 [DEBUG] alert
+31-05-2019 07:20:29.3 [DEBUG] 
+{
+   "device": "web server2",
+   "queueId": "q745vg2",
+   "time": "1559162492268",
+   "message": " Alert World",
+   "labels": "IMPORTANT,NOTICE ",
+   "priority": " 5"
+}
+31-05-2019 07:20:29.3 [ERROR] 
+{
+   "errno": -4058,
+   "code": "ENOENT",
+   "syscall": "open",
+   "path": "C:\\node\\alerter\\queues\\q745vg2.js"
+}
+31-05-2019 07:20:29.3 [NOTICE]  initialising queues\q745vg2.js
+31-05-2019 07:40:01.2 [DEBUG] alert
+31-05-2019 07:40:01.2 [DEBUG] 
+{
+   "device": "web server2",
+   "queueId": "",
+   "time": "1559162492268",
+   "message": " Alert World",
+   "labels": "IMPORTANT,NOTICE ",
+   "priority": " 5"
+}
+31-05-2019 07:40:01.2 [WARNING] No queue id or channel is defined, ignored
+31-05-2019 07:40:19.1 [DEBUG] alert
+31-05-2019 07:40:19.1 [DEBUG] 
+{
+   "device": "web server2",
+   "queueId": "4564",
+   "time": "1559162492268",
+   "message": " Alert World",
+   "labels": "IMPORTANT,NOTICE ",
+   "priority": " 5"
+}
+31-05-2019 07:40:19.1 [ERROR] 
+{
+   "errno": -4058,
+   "code": "ENOENT",
+   "syscall": "open",
+   "path": "C:\\node\\alerter\\queues\\4564.js"
+}
+31-05-2019 07:40:19.2 [NOTICE]  initialising queues\4564.js
+31-05-2019 07:41:12.6 [DEBUG] alert
+31-05-2019 07:41:12.7 [DEBUG] 
+{
+   "device": "web server2",
+   "queueId": "",
+   "time": "1559162492268",
+   "message": " Alert World",
+   "labels": "IMPORTANT,NOTICE ",
+   "priority": " 5"
+}
+31-05-2019 07:41:12.7 [WARNING] No queue id or channel is defined, ignored

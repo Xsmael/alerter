@@ -28,8 +28,6 @@ app.use(bodyParser.urlencoded({ extended: true }));
 
 
 
-
-
 function generateToken() { return Math.random().toString(36).substring(2, 15) + '-' + Math.random().toString(36).substring(2, 15) + '-' + Date.now().toString(36); }
 
 
@@ -42,7 +40,7 @@ app
     let alert= req.query;
     if(alert.queueId ) {
         let qID= alert.queueId;        
-        let fileName= path.join(CONF.QDIR, qID+'.q');
+        let fileName= path.join(CONF.QDIR, qID+'.js');
         delete alert.queueId;
 
         enQueue(fileName, alert);
@@ -61,10 +59,23 @@ app
 
 .get('/describe', function (req, res) {
 
-    log.debug('queue descriptor');
-    log.debug(req.query);
+    let data= req.query;
+    log.debug(data);
 
-    let qd= req.query;
+    let queueId= data.queueId;
+    let channels = data.channels.split(',');
+    
+    log.debug('/describe ' + queueId);
+
+    let Q= {
+        id: queueId,
+        channels: {}
+    }
+
+    channels.forEach(ch => {
+        Q.channels[ch]=[];
+    });    
+    log.debug(Q);
   
     res.json({ success: true });
 
@@ -73,10 +84,27 @@ app
 
 .get('/subscribe', function (req, res) {
 
-    log.debug('queue descriptor');
-    log.debug(req.query);
+    
+    let data= req.query;
+    log.debug(data);
+    
+    let queueId= data.queueId;
+    let address= data.address;
+    let channels = data.channels.split(',');
 
-    let qd= req.query;
+    log.debug('/subscribe ' + queueId);
+    
+    let Q= {
+        id: queueId,
+        channels: {}
+    }
+
+    channels.forEach(ch => {
+        Q.channels[ch]=[]; //gotta remove this
+
+        Q.channels[ch].push(address);
+    });    
+    log.debug(Q);
   
     res.json({ success: true });
 
