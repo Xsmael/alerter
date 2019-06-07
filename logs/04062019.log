@@ -1,0 +1,30 @@
+04-06-2019 23:05:34.7 [INFO] Starting up Sequence...
+04-06-2019 23:05:34.7 [INFO] WS Server started on PORT: 3003
+04-06-2019 23:05:34.7 [INFO] Express Server started on PORT: 3005
+04-06-2019 23:05:41.5 [DEBUG] 
+{
+   "device": "web server2",
+   "queueId": "456123",
+   "labels": "IMPORTANT,NOTICE"
+}
+04-06-2019 23:06:43.2 [DEBUG] 
+{
+   "device": "web server2",
+   "queueId": "456123",
+   "labels": "IMPORTANT,NOTICE ",
+   "channels": "sms,email",
+   "address": " 226784512"
+}
+04-06-2019 23:06:43.2 [DEBUG] /subscribe 456123
+04-06-2019 23:06:43.2 [DEBUG] 
+{
+   "id": "456123",
+   "channels": {
+      "sms": [
+         " 226784512"
+      ],
+      "email": [
+         " 226784512"
+      ]
+   }
+}

@@ -74,7 +74,8 @@ app
 
     channels.forEach(ch => {
         Q.channels[ch]=[];
-    });    
+    }); 
+       
     log.debug(Q);
   
     res.json({ success: true });
