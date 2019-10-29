@@ -21,7 +21,7 @@
     "emailjs": "^2.2.0",
     "express": "^4.16.4",
     "figlet": "^1.2.3",
-    "mongoose": "^5.4.19",
+    "mongoose": "^5.7.5",
     "mysql2": "^1.6.5",
     "noogger": "^0.1.8",
     "request": "^2.88.0",
